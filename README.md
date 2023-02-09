@@ -15,4 +15,5 @@ __Пример:__
     ["1234", "1567", "-2", "computer science"] -> ["-2"]
     ["Russia", "Denmark", "Kazan"] -> []
 
-![alt text](diagram/diagram.png)
+__Блок-схема алгоритма__
+![](diagram/diagram.png)
